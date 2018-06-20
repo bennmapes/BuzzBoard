@@ -1,4 +1,4 @@
-# BuzzBoard v1.00
+# BuzzBoard v1.0.0
 Initial release of open source resources for BuzzzBoard PCBA
 
 ## Feedback, Help, and Collaboration
@@ -14,7 +14,7 @@ See license file.
 
 ## Change Log
 
-###v1.0
+###v1.0.0
   - Initial release
 
 
